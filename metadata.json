@@ -1,0 +1,7 @@
+{
+  "name": "English Vocabulary Master",
+  "description": "An interactive web application to learn and master English vocabulary with Arabic translations. It includes features for written repetition, handwriting practice, pronunciation, audio recording, and image association.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
